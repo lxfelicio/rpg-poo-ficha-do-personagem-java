@@ -51,9 +51,10 @@ rpg-poo-ficha-do-personagem-java/
 
 ## 🧠 Autoria
 
-Este tutorial foi desenvolvido por **Laura Felício** como parte dos estudos sobre Java e POO e para a conclusão do desafio de projeto **“Abstraindo um Bootcamp Usando Orientação a Objetos em Java”**, oferecido pela plataforma DIO.
+Este projeto foi desenvolvido por **Laura Felício** como parte dos estudos sobre Java e POO e para a conclusão do desafio de projeto **“Abstraindo um Bootcamp Usando Orientação a Objetos em Java”**, ministrado por Camila Cavalcante (https://github.com/cami-la) e oferecido pela plataforma **DIO**.
 
-⚠️ Este conteúdo tem finalidade exclusivamente didática e pode conter pequenos erros.  
-💬 Contribuições, sugestões ou correções são bem-vindas via GitHub: 🔗 https://github.com/lxfelicio
+> ⚠️ Este conteúdo tem finalidade exclusivamente didática e pode conter pequenos erros.  
+> 💬 Contribuições, sugestões ou correções são bem-vindas via GitHub:
+> 🔗 [github.com/lxfelicio/rpg-poo-ficha-do-personagem-java](https://github.com/lxfelicio/rpg-poo-ficha-do-personagem-java)
 
-⌨️ Criado com 🪄, 📜 e 🎲 por **Laura Felício**
+⌨️ Criado com 🪄, 📜 e 🎲 por [Laura Felício](https://github.com/lxfelicio)
